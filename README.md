@@ -21,7 +21,7 @@ Comparar a performance de diferentes modelos estatísticos — incluindo modelos
 
 ## 📁 Dados Utilizados
 
-- IPCA mensal (jan/2011 a mai/2025)  
+- IPCA mensal (jan/2011 a set/2024)  
 - 123 variáveis socioeconômicas, oriundas de:
   - IBGE, BCB, IPEA, FGV, ANBIMA, Conab, Abras, CNI, Eletrobras, entre outras
 
