@@ -6,7 +6,7 @@ Este repositório contém os códigos, dados e relatório final do Trabalho de C
 
 ## 🧠 Objetivo
 
-Comparar a performance de diferentes modelos estatísticos — incluindo modelos de séries temporais clássicos e redes neurais — para a previsão do IPCA (Índice Nacional de Preços ao Consumidor Amplo), com base em dados reais e em múltiplos horizontes de previsão.
+Comparar a performance de diferentes modelos estatísticos, incluindo modelos de séries temporais clássicos e redes neurais, para a previsão do IPCA (Índice Nacional de Preços ao Consumidor Amplo), com base em dados reais e em múltiplos horizontes de previsão.
 
 ---
 
